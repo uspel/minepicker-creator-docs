@@ -1,0 +1,9 @@
+{
+  "label": "creation.json",
+  "link": {
+    "type": "generated-index",
+    "title": "Creation Configuration",
+    "description": "Configure how the Minepicker Creator CLI handles your creation.",
+    "slug": "/cli/config"
+  }
+}

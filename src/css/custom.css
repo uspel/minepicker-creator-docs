@@ -1,0 +1,64 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #00b9ed;
+  --ifm-color-primary-dark: #00a6d4;
+  --ifm-color-primary-darker: #008db4;
+  --ifm-color-primary-darkest: #007697;
+  --ifm-color-primary-light: #27cbf0;
+  --ifm-color-primary-lighter: #44d6f0;
+  --ifm-color-primary-lightest: #6ee6fc;
+  --ifm-code-font-size: 95%;
+
+  --ifm-breadcrumb-color-active: var(--ifm-font-color-base);
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --ifm-color-emphasis-200: var(--ifm-toc-border-color) !important;
+  --ifm-color-emphasis-300: var(--ifm-toc-border-color) !important;
+
+  scrollbar-color: var(--ifm-toc-border-color) var(--ifm-background-color);
+}
+
+[data-theme="dark"] {
+  --ifm-toc-border-color: #171717 !important;
+  --ifm-background-color: rgb(15, 15, 15) !important;
+  --ifm-card-background-color: rgb(18, 18, 18);
+  --ifm-navbar-background-color: rgb(15, 15, 15, 0.8);
+  --ifm-table-stripe-background: rgb(20, 20, 20) !important;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar__inner {
+  padding: var(--ifm-navbar-padding-vertical) var(--ifm-navbar-padding-horizontal);
+  backdrop-filter: blur(15px);
+}
+
+.navbar-sidebar {
+  backdrop-filter: blur(15px);
+}
+
+.menu__caret {
+  height: 2rem;
+  aspect-ratio: 1;
+  padding: 0;
+  display: grid;
+  place-items: center;
+}
+
+.footer {
+  background-color: #090909 !important;
+}
+
+.pagination-nav__link {
+  background-color: var(--ifm-card-background-color);
+}

@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://minepicker-creator.netlify.app/*"
+  to = "https://creator.minepicker.com/:splat"
+  status = 301
+  force = true

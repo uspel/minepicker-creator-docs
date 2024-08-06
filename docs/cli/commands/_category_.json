@@ -1,0 +1,8 @@
+{
+  "label": "Command Reference",
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about the different commands included in the Minepicker Creator CLI.",
+    "slug": "/cli/commands"
+  }
+}
