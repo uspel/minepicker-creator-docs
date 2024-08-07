@@ -1,8 +1,4 @@
 {
   "label": "Beginner's Guide",
-  "position": 1,
-  "link": {
-    "type": "doc",
-    "id": "intro"
-  }
+  "position": 1
 }

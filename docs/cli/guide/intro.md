@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+sidebar_position: 1
 ---
 
 ## Before You Start
@@ -64,7 +65,4 @@ This will trigger the CLI to build your creation to its development directory ev
 
 For example, files in a resource pack folder would be copied to your `development_resource_packs` com.mojang folder.
 
-:::warning Updating Configuration
-Updates to your `creation.json` file will result in any instances of the `minepicker dev` command being terminated.
-For configuration changes to take effect, you must re-run the command.
-:::
+Learn more about creation development [here](/docs/cli/guide/development.md)!

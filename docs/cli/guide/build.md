@@ -1,5 +1,6 @@
 ---
 title: Building Creations
+sidebar_position: 3
 ---
 
 The [`minepicker build`](/docs/cli/commands/build.md) command is used to output a production build of your creation. This is the version of your creation that should be shared for others to download, such as adding it to a GitHub release.
