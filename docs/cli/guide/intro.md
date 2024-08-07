@@ -1,6 +1,5 @@
 ---
 title: Getting Started
-sidebar_label: IHJSIHD
 ---
 
 ## Before You Start
