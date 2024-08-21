@@ -17,7 +17,7 @@ If you plan on publishing your creations:
 
 ## Installation
 
-First, make sure you have **[Node.js](https://nodejs.org) version 18** or later installed on your device.
+First, make sure you have **[Node.js](https://nodejs.org) version 20.11** or later installed on your device.
 
 :::tip
 Don't have Node.js installed? [Follow this link](https://nodejs.org) and download the latest LTS (Long-Term Support) version.
